@@ -1,0 +1,12 @@
+ls
+pwd
+ls -l
+mkdir testDir
+ls -l
+cd testDir
+pwd
+cd ..
+rmdir testDir
+touch hello.txt
+ls -l
+exit
